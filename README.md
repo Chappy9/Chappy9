@@ -21,19 +21,30 @@ Here are some ideas to get you started:
 <a href="chaeeun0618@unm.edu" target="_blank"><img src="https://img.shields.io/badge/mail-0067A3?style=flat-square&logo=Mail.Ru&logoColor=white"/></a>
 </div>
 
-<div align="center">
+
+
+
+
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chappy9&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" />
 </a>
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api?username=Chappy9&theme=tokyonight&show_icons=true" width="42%" />
 </a>
-</div>
+
+
+
 
 <div align="center">
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Chappy9&theme=tokyonight)](https://git.io/streak-stats)
 </div>
+
+
+
+
+
+
 
 <div align="center">
 
