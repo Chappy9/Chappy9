@@ -24,14 +24,14 @@ Here are some ideas to get you started:
 
 
 
-
+<div align="center">
 <a href="s">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chappy9&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chappy9&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" width="58%"/>
 </a>
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api?username=Chappy9&theme=tokyonight&show_icons=true" width="42%" />
 </a>
-
+</div>
 
 
 
